@@ -1,4 +1,4 @@
-# EX-05-Feature-Generation
+# Feature Generation
 
 
 ## AIM
