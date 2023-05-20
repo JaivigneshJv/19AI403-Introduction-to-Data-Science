@@ -1,1 +1,15 @@
-# 19AI403-Introduction-to-Data-Science
+# 19AI403 - Introduction to Data Science
+### This is a repo containing experiments performed in the course 19AI403 Introduction to Data Science
+
+
+
+| Ex No.        | Experiment         | Description    | link
+| :------------- | :------------- | :---------- | :-------
+| 1 | Data Cleaning  | To read the given data and perform data cleaning and save the cleaned data to a file. | [redirect](https://github.com/JaivigneshJv/19AI403-Introduction-to-Data-Science/tree/main/Ex%2001%20-%20Data%20Cleaning/).
+| 2 | Outlier Detection and Removal  | bhp.csv which contains property prices in the city of banglore, India. You need to examine price_per_sqft column and remove outliner | [redirect](https://github.com/JaivigneshJv/19AI403-Introduction-to-Data-Science/tree/main/Ex%2002%20-%20Outlier%20Detection%20and%20Removal).
+| 3 | Univariate-Analysis  | Univariate analysis is basically the simplest form to analyze data. Uni means one and this means that the data has only one kind of variable. The major reason for univariate analysis is to use the data to describe. The analysis will take data, summarise it, and then find some pattern in the data.| [redirect](https://github.com/JaivigneshJv/19AI403-Introduction-to-Data-Science/tree/main/Ex%2003%20-%20Univariate%20Analysis).
+| 4 | Multivariate Analysis  | Explanation Exploratory data analysis is used to understand the messages within a dataset. This technique involves many iterative processes to ensure that the cleaned data is further sorted to better understand the useful meaning.The primary aim with exploratory analysis is to examine the data for distribution, outliers and anomalies to direct specific testing of your hypothesis. | [redirect](https://github.com/JaivigneshJv/19AI403-Introduction-to-Data-Science/tree/main/Ex%2004%20-%20Multivariate%20Analysis).
+| 5 | Feature Generation | Feature Generation (also known as feature construction, feature extraction or feature engineering) is the process of transforming features into new features that better relate to the target. | [redirect](https://github.com/JaivigneshJv/19AI403-Introduction-to-Data-Science/tree/main/Ex%2005%20-%20Feature%20Generation).
+| 6 | Feature Transformation  | Feature Transformation is a technique by which we can boost our model performance. Feature transformation is a mathematical transformation in which we apply a mathematical formula to a particular column(feature) and transform the values which are useful for our further analysis. | [redirect](https://github.com/JaivigneshJv/19AI403-Introduction-to-Data-Science/tree/main/Ex%2006%20-%20Feature%20Transformation).
+| 7 | Data Visualization I | Data Visualization on a complex dataset and save the data to a file. | [redirect](https://github.com/JaivigneshJv/19AI403-Introduction-to-Data-Science/tree/main/Ex%2007%20-%20Data%20Visualization%20I).
+| 8 | Data Visualization II  | Data Visualization on a complex dataset and save the data to a file. | [redirect](https://github.com/JaivigneshJv/19AI403-Introduction-to-Data-Science/tree/main/Ex%2008%20-%20Data%20Visualization%20II).
